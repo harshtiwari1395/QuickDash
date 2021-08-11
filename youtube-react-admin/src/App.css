@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    margin-top: 10px;
+}
+
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+.react-daterange-picker__wrapper
+{height: 35px; }
+
+.uk-table-shrink{
+    text-align: center !important;
+}
